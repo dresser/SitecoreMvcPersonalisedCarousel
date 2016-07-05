@@ -1,0 +1,17 @@
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\SitecoreMvcCarousel\obj\Debug\SitecoreMvcCarousel.csprojResolveAssemblyReference.cache
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\SitecoreMvcCarousel\bin\SitecoreMvcCarousel.dll
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\SitecoreMvcCarousel\bin\SitecoreMvcCarousel.pdb
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\SitecoreMvcCarousel\bin\Antlr3.Runtime.dll
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\SitecoreMvcCarousel\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\SitecoreMvcCarousel\bin\System.Web.Mvc.dll
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\SitecoreMvcCarousel\bin\WebGrease.dll
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\SitecoreMvcCarousel\bin\System.Web.Mvc.xml
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\SitecoreMvcCarousel\obj\Debug\SitecoreMvcCarousel.dll
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\SitecoreMvcCarousel\obj\Debug\SitecoreMvcCarousel.pdb
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\bin\SitecoreMvcCarousel.dll
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\bin\SitecoreMvcCarousel.pdb
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\bin\System.Web.Mvc.dll
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\bin\System.Web.Mvc.xml
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\obj\Debug\SitecoreMvcCarousel.csprojResolveAssemblyReference.cache
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\obj\Debug\SitecoreMvcCarousel.dll
+C:\Projects\SitecoreMvcCarousel\SitecoreMvcCarousel\obj\Debug\SitecoreMvcCarousel.pdb

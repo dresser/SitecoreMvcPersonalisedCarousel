@@ -1,0 +1,5 @@
+C:\Projects\SitecoreMvcPersonalisedCarousel\Src\Web\bin\Web.dll
+C:\Projects\SitecoreMvcPersonalisedCarousel\Src\Web\bin\Web.pdb
+C:\Projects\SitecoreMvcPersonalisedCarousel\Src\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Projects\SitecoreMvcPersonalisedCarousel\Src\Web\obj\Debug\Web.dll
+C:\Projects\SitecoreMvcPersonalisedCarousel\Src\Web\obj\Debug\Web.pdb

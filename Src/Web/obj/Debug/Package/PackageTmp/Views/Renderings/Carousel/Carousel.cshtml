@@ -1,0 +1,14 @@
+﻿@using Web.Extensions
+@using Sitecore.Data.Items
+@using System.Linq
+@model Sitecore.Mvc.Presentation.RenderingModel
+<div class="carousel">
+    @{
+        var folderItem = Model.Item.GetFirstDescendantInheritingFrom(Web.TemplateIds.StandardCarouselSlideFolder);
+        var slides = folderItem != null ? folderItem.Children.Cast<Item>() : new List<Item>();
+    }
+    @foreach (var slide in slides)
+    {
+        @Html.Sitecore().Rendering(Web.RenderingIds.CarouselSlide, new {dataSource=slide})
+    }
+</div>
