@@ -1,0 +1,52 @@
+----item----
+version: 1
+id: {B2DA2187-EA92-4D4F-B93C-74D5B28F3F92}
+database: master
+path: /sitecore/content/Home/Components/Carousel 2/CustomSlides
+parent: {5BC3AC4B-2993-45D0-B91B-B7F4DABBF305}
+name: CustomSlides
+master: {FBCB7BDE-DBFF-4CB5-8227-3EEF1A2C157A}
+template: {EFA129A7-818F-4218-BFEA-5FB1338D2A10}
+templatekey: CustomCarouselSlideFolder
+created: 20160705T164052:636033336528330000
+
+----field----
+field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
+name: __Originator
+key: __originator
+content-length: 38
+
+{98EB9871-9393-487F-8140-4FBE9BF47E9C}
+----version----
+language: en
+version: 1
+revision: 7c235b5c-e986-49da-9fce-f5162b0d52cd
+
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160705T164052Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+7c235b5c-e986-49da-9fce-f5162b0d52cd
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 16
+
+20160705T164052Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
