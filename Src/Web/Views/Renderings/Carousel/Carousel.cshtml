@@ -2,8 +2,8 @@
 @using Sitecore.Data.Items
 @using System.Linq
 @model Sitecore.Mvc.Presentation.RenderingModel
-<div class="carousel" data-component="Carousel">
-    @Html.Sitecore().Placeholder("carousel-custom-slides")
+<div class="carousel">
+    @Html.Sitecore().Placeholder("carousel-custom-slides")        
     @{
         var folderItem = Model.Item.GetFirstDescendantInheritingFrom(Web.TemplateIds.StandardCarouselSlideFolder);
         var slides = folderItem != null ? folderItem.Children.Cast<Item>() : new List<Item>();
@@ -12,4 +12,10 @@
     {
         @Html.Sitecore().Rendering(Web.RenderingIds.CarouselSlide.ToString(), new {Datasource=slide.ID})
     }
+    <span class="prev">
+        <span class="arrow"></span>
+    </span>
+    <span class="next">
+        <span class="arrow"></span>
+    </span>
 </div>

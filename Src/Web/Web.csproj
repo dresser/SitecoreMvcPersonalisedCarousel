@@ -75,14 +75,16 @@
     <Compile Include="TemplateIds.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Content\carousel.css" />
+    <Content Include="Assets\Css\carousel.css" />
     <Content Include="App_Config\Include\Sites.config" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
-    <None Include="Scripts\jquery-1.8.2.intellisense.js" />
+    <None Include="Assets\Scripts\jquery-1.8.2.intellisense.js" />
+    <Content Include="Assets\Images\left-arrow.png" />
+    <Content Include="Assets\Images\right-arrow.png" />
     <Content Include="Global.asax" />
-    <Content Include="Scripts\carousel.js" />
-    <Content Include="Scripts\jquery-1.8.2.js" />
-    <Content Include="Scripts\jquery-1.8.2.min.js" />
+    <Content Include="Assets\Scripts\carousel.js" />
+    <Content Include="Assets\Scripts\jquery-1.8.2.js" />
+    <Content Include="Assets\Scripts\jquery-1.8.2.min.js" />
     <Content Include="Views\Renderings\Carousel\Carousel.cshtml" />
     <Content Include="Views\Renderings\Carousel\CarouselSlide.cshtml" />
     <Content Include="Views\Web.config" />
