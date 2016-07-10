@@ -1,14 +1,14 @@
 ----item----
 version: 1
-id: {B2DA2187-EA92-4D4F-B93C-74D5B28F3F92}
+id: {5BC3AC4B-2993-45D0-B91B-B7F4DABBF305}
 database: master
-path: /sitecore/content/Home/Components/Carousel 2/CustomSlides
-parent: {5BC3AC4B-2993-45D0-B91B-B7F4DABBF305}
-name: CustomSlides
+path: /sitecore/content/Home/Components/Carousel
+parent: {61CEC4B9-47C5-4AE3-B472-AB96067B6D72}
+name: Carousel
 master: {FBCB7BDE-DBFF-4CB5-8227-3EEF1A2C157A}
-template: {EFA129A7-818F-4218-BFEA-5FB1338D2A10}
-templatekey: CustomCarouselSlideFolder
-created: 20160705T164052:636033336528330000
+template: {C560B020-F881-4C70-B532-F5A862BA227A}
+templatekey: Carousel
+created: 20160705T164052:636033336527600000
 
 ----field----
 field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
@@ -16,11 +16,11 @@ name: __Originator
 key: __originator
 content-length: 38
 
-{98EB9871-9393-487F-8140-4FBE9BF47E9C}
+{393AF089-60BA-45E8-BB6A-1DBF22AF0051}
 ----version----
 language: en
 version: 1
-revision: 7c235b5c-e986-49da-9fce-f5162b0d52cd
+revision: 01da5c7f-59cd-430c-b935-be8e0e0454a5
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -35,14 +35,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-7c235b5c-e986-49da-9fce-f5162b0d52cd
+01da5c7f-59cd-430c-b935-be8e0e0454a5
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T164052Z
+20160710T191654Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

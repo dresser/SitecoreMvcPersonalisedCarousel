@@ -1,14 +1,14 @@
 ----item----
 version: 1
-id: {A9BA657B-F1A2-44DD-83B5-5C946B6C596B}
+id: {A108F0F6-D65B-40F5-9BB6-20A8A4F49E44}
 database: master
-path: /sitecore/content/Home/Components/Carousel 2/StandardSlides/Alpacca
+path: /sitecore/content/Home/Components/Carousel/StandardSlides/Standard Slide 2
 parent: {06DB1103-8231-4F65-B4C6-C3FCD9483E77}
-name: Alpacca
+name: Standard Slide 2
 master: {FBCB7BDE-DBFF-4CB5-8227-3EEF1A2C157A}
 template: {32494B0E-5028-4536-8EE7-11F6E90788AD}
 templatekey: CarouselSlide
-created: 20160705T164053:636033336531200000
+created: 20160705T164053:636033336530670000
 
 ----field----
 field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
@@ -16,11 +16,11 @@ name: __Originator
 key: __originator
 content-length: 38
 
-{5CB311B1-1C2C-4D13-87C8-1AA889FCD2E3}
+{29E9AB32-F8B9-439A-9287-A35D64946944}
 ----version----
 language: en
 version: 1
-revision: dbe9fb4a-8b3a-410c-84f6-f59a25b79c4b
+revision: 95776269-dbd3-43c4-a617-0879e69137dd
 
 ----field----
 field: {FA01DE3E-64BC-40AD-A992-54710D1A73F9}
@@ -28,21 +28,21 @@ name: Header
 key: header
 content-length: 7
 
-Alpacca
+Pigeons
 ----field----
 field: {31E893C3-C94B-4AF3-B4C8-409734D42931}
 name: SubHead
 key: subhead
-content-length: 71
+content-length: 18
 
-Everything you wanted to know about alpaccas but were too afraid to ask
+Give me some bread
 ----field----
 field: {B91FA058-FB31-4617-B10F-7C2B9553FCE1}
 name: Background
 key: background
 content-length: 58
 
-<image mediaid="{E5C727DE-C498-4581-94EC-F66261FBF3CA}" />
+<image mediaid="{EA43F945-D9D1-4891-9CB9-4AFDDBD466BC}" />
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-dbe9fb4a-8b3a-410c-84f6-f59a25b79c4b
+95776269-dbd3-43c4-a617-0879e69137dd
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T185505Z
+20160707T173557Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

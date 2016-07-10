@@ -1,14 +1,14 @@
 ----item----
 version: 1
-id: {7333BE0E-AF84-4DB2-A82B-D2F1A245680C}
+id: {A9BA657B-F1A2-44DD-83B5-5C946B6C596B}
 database: master
-path: /sitecore/content/Home/Components/Carousel 2/CustomSlides/CustomSlide2
-parent: {B2DA2187-EA92-4D4F-B93C-74D5B28F3F92}
-name: CustomSlide2
+path: /sitecore/content/Home/Components/Carousel/StandardSlides/Standard Slide 1
+parent: {06DB1103-8231-4F65-B4C6-C3FCD9483E77}
+name: Standard Slide 1
 master: {FBCB7BDE-DBFF-4CB5-8227-3EEF1A2C157A}
 template: {32494B0E-5028-4536-8EE7-11F6E90788AD}
 templatekey: CarouselSlide
-created: 20160705T164052:636033336529530000
+created: 20160705T164053:636033336531200000
 
 ----field----
 field: {F6D8A61C-2F84-4401-BD24-52D2068172BC}
@@ -16,40 +16,54 @@ name: __Originator
 key: __originator
 content-length: 38
 
-{0FFB82C6-4B5E-4C01-9A3E-3407A38B5A5A}
+{5CB311B1-1C2C-4D13-87C8-1AA889FCD2E3}
 ----version----
 language: en
 version: 1
-revision: 135a859c-1bd9-430e-853d-8673a5e88ad9
+revision: 187e0886-4e8b-4c53-b57d-d21738994b08
 
 ----field----
 field: {FA01DE3E-64BC-40AD-A992-54710D1A73F9}
 name: Header
 key: header
-content-length: 14
+content-length: 7
 
-Custom Slide 2
+Alpacca
+----field----
+field: {31E893C3-C94B-4AF3-B4C8-409734D42931}
+name: SubHead
+key: subhead
+content-length: 71
+
+Everything you wanted to know about alpaccas but were too afraid to ask
+----field----
+field: {B91FA058-FB31-4617-B10F-7C2B9553FCE1}
+name: Background
+key: background
+content-length: 58
+
+<image mediaid="{E5C727DE-C498-4581-94EC-F66261FBF3CA}" />
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
 content-length: 16
 
-20160705T164052Z
+20160705T164053Z
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-135a859c-1bd9-430e-853d-8673a5e88ad9
+187e0886-4e8b-4c53-b57d-d21738994b08
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T164052Z
+20160707T173550Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

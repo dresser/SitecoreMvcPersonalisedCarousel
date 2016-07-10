@@ -317,7 +317,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 158d92d3-6519-4453-a123-bcc368db3a04
+revision: 3c8ad17a-32ff-4753-b3c2-255ae593e26e
 
 ----field----
 field: {E7E3948A-DD47-468B-B4DA-0DF31C1CF6C5}
@@ -360,9 +360,9 @@ Welcome to Sitecore.
 field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
 name: __Final Renderings
 key: __final renderings
-content-length: 485
+content-length: 256
 
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{7510D4C2-8F30-438E-9A5E-E21DCC69345C}" p:before="*" s:ds="{EBC3E502-B05B-4549-AF9A-625A8C13FA1D}" s:id="{DFD4823F-B710-4929-A0B7-8FBB1265FEE1}" s:ph="/main/centercolumn/content/carousel-custom-slides" /><r uid="{09C23C66-AD76-49D6-A670-B3FC25A6882F}" p:after="*[1=2]" s:ds="{5BC3AC4B-2993-45D0-B91B-B7F4DABBF305}" s:id="{C1B509A7-B8AE-4F77-BABF-74660965F5DA}" s:par="" s:ph="content" /></d></r>
+<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{79C37D28-AABC-4AE1-B393-3176BD6B2281}" p:before="*" s:id="{DFD4823F-B710-4929-A0B7-8FBB1265FEE1}" s:ph="/main/centercolumn/content/carousel-custom-slides" /></d></r>
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
 name: __Valid from
@@ -404,14 +404,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-158d92d3-6519-4453-a123-bcc368db3a04
+3c8ad17a-32ff-4753-b3c2-255ae593e26e
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T184956Z
+20160710T191823Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
