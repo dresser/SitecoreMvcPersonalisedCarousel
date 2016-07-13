@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 95776269-dbd3-43c4-a617-0879e69137dd
+revision: ff429212-159e-439b-ad19-8b69d65887ba
 
 ----field----
 field: {FA01DE3E-64BC-40AD-A992-54710D1A73F9}
@@ -40,9 +40,9 @@ Give me some bread
 field: {B91FA058-FB31-4617-B10F-7C2B9553FCE1}
 name: Background
 key: background
-content-length: 58
+content-length: 65
 
-<image mediaid="{EA43F945-D9D1-4891-9CB9-4AFDDBD466BC}" />
+<image mediaid="{EA43F945-D9D1-4891-9CB9-4AFDDBD466BC}" ></image>
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
@@ -56,14 +56,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-95776269-dbd3-43c4-a617-0879e69137dd
+ff429212-159e-439b-ad19-8b69d65887ba
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160707T173557Z
+20160710T192357Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -71,3 +71,10 @@ key: __updated by
 content-length: 14
 
 sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />

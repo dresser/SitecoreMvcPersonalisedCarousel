@@ -1,47 +1,75 @@
 ----item----
 version: 1
-id: {DFD4823F-B710-4929-A0B7-8FBB1265FEE1}
+id: {C1B509A7-B8AE-4F77-BABF-74660965F5DA}
 database: master
-path: /sitecore/layout/Renderings/Website/CarouselSlide
-parent: {89E04769-4FE3-4FC2-9F9F-AC21E99B31AC}
-name: CarouselSlide
+path: /sitecore/layout/Renderings/Website/Components/Carousel
+parent: {338D2FEC-0708-4068-90C1-051312B1F49D}
+name: Carousel
 master: {00000000-0000-0000-0000-000000000000}
 template: {99F8905D-4A87-4EB8-9F8B-A9BEBFB3ADD6}
 templatekey: View rendering
-created: 20160705T111252:636033139721900000
+created: 20160705T111252:636033139721600000
 
 ----field----
 field: {51B435BC-F7B9-478A-9C51-52916AF96FF5}
 name: Path
 key: path
-content-length: 47
+content-length: 42
 
-/Views/Renderings/Carousel/CarouselSlide.cshtml
+/Views/Renderings/Carousel/Carousel.cshtml
+----field----
+field: {DDAB263E-B42E-419A-AA6F-081B7393CA38}
+name: Model
+key: model
+content-length: 0
+
+
 ----field----
 field: {EF7C5528-7307-4E19-863B-DA19EED6A9ED}
 name: Open Properties after Add
 key: open properties after add
-content-length: 1
+content-length: 0
 
--
+
+----field----
+field: {B5B27AF1-25EF-405C-87CE-369B3A004016}
+name: Datasource Location
+key: datasource location
+content-length: 22
+
+/sitecore/content/Home
+----field----
+field: {1A7C85E5-DC0B-490D-9187-BB1DBCB4C72F}
+name: Datasource Template
+key: datasource template
+content-length: 47
+
+/sitecore/templates/Website/Components/Carousel
 ----field----
 field: {06D5295C-ED2F-4A54-9BF2-26228D113318}
 name: __Icon
 key: __icon
-content-length: 34
+content-length: 84
 
-Office/16x16/element_selection.png
+http://sitecoremvcpersonalisedcarousel/temp/iconcache/office/32x32/monitor_width.png
 ----field----
 field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
 name: __Sortorder
 key: __sortorder
 content-length: 3
 
-150
+500
 ----version----
 language: en
 version: 1
-revision: 4e851e2f-cf85-444b-9939-f5a6bc6757c6
+revision: 955feb6b-d8f8-4e2f-9a5c-864c7d8900d9
+
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 0
+
 
 ----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
@@ -49,21 +77,21 @@ name: __Created
 key: __created
 content-length: 15
 
-20150224T162913
+20150221T151133
 ----field----
 field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
 name: __Revision
 key: __revision
 content-length: 36
 
-4e851e2f-cf85-444b-9939-f5a6bc6757c6
+955feb6b-d8f8-4e2f-9a5c-864c7d8900d9
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160705T181412Z
+20160713T191626Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

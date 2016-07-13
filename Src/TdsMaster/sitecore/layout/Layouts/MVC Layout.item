@@ -1,55 +1,55 @@
 ----item----
 version: 1
-id: {8AE1C245-A4FA-46AE-9B35-4FBC15F63169}
+id: {DE645646-421B-4E1F-B857-539E239023EE}
 database: master
-path: /sitecore/layout/Placeholder Settings/content
-parent: {1CE3B36C-9B0C-4EB5-A996-BFCB4EAA5287}
-name: content
-master: {00000000-0000-0000-0000-000000000000}
-template: {5C547D4E-7111-4995-95B0-6B561751BF2E}
-templatekey: Placeholder
-created: 20160519T084128:635992440880000000
+path: /sitecore/layout/Layouts/MVC Layout
+parent: {75CC5CE4-8979-4008-9D3C-806477D57619}
+name: MVC Layout
+master: {3F0E643C-3B9A-4E3F-961A-75057BA3C4E8}
+template: {3A45A723-64EE-4919-9D41-02FD40FD1466}
+templatekey: Layout
+created: 20160705T111251:636033139718600000
 
 ----field----
-field: {7256BDAB-1FD2-49DD-B205-CB4873D2917C}
-name: Placeholder Key
-key: placeholder key
+field: {A036B2BC-BA04-44F6-A75F-BAE6CD242ABF}
+name: Path
+key: path
+content-length: 31
+
+/Views/Layouts/MvcLayout.cshtml
+----field----
+field: {BA3F86A2-4A1C-4D78-B63D-91C2779C1B5E}
+name: __Sortorder
+key: __sortorder
+content-length: 1
+
+0
+----field----
+field: {56776EDF-261C-4ABC-9FE7-70C618795239}
+name: __Help link
+key: __help link
 content-length: 7
 
-content
+<link/>
 ----field----
-field: {E391B526-D0C5-439D-803E-17512EAE6222}
-name: Allowed Controls
-key: allowed controls
-content-length: 38
+field: {DEC8D2D5-E3CF-48B6-A653-8E69E2716641}
+name: __Security
+key: __security
+content-length: 0
 
-{C1B509A7-B8AE-4F77-BABF-74660965F5DA}
+
 ----version----
 language: da
 version: 1
-revision: 327536c7-187c-4cf6-96c1-0308491e3421
+revision: c94d5428-1f2f-4d3e-b5e7-a1da6d1feb13
 
-----field----
-field: {87871FF5-1965-46D6-884F-01D6A0B9C4C1}
-name: Description
-key: description
-content-length: 391
-
-<div>
-      <b>Placeholder for indhold</b>
-      <div>
-
-<div style="padding:8px 8px 0px 8px;width:200px">
-<img height="32" width="32" alt="Sample rendering" style="float:left;margin:0px 8px 0px 0px" src="~/icon/Business/32x32/table_selection_block.png?w=32&amp;h=32&amp;as=1" />
-<div>Placeholderen for indhold er den primære placeholder.<div></div></div></div></div>
-<div></div></div>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
 key: __display name
-content-length: 7
+content-length: 11
 
-indhold
+Prøvelayout
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -61,9 +61,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 16
+content-length: 34
 
-20160519T084707Z
+20150130T103203:635582107230471200
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -77,14 +77,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-327536c7-187c-4cf6-96c1-0308491e3421
+c94d5428-1f2f-4d3e-b5e7-a1da6d1feb13
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 16
+content-length: 34
 
-20160519T084707Z
+20150130T103203:635582107230471200
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -95,29 +95,15 @@ sitecore\admin
 ----version----
 language: de-DE
 version: 1
-revision: 28f4cc7b-c19d-492a-bee8-872b22c10d2c
+revision: 29f57be2-808e-455d-9abd-746ae3c71315
 
-----field----
-field: {87871FF5-1965-46D6-884F-01D6A0B9C4C1}
-name: Description
-key: description
-content-length: 385
-
-<div>
-      <b>Content-Platzhalter</b>
-      <div>
-
-<div style="padding:8px 8px 0px 8px;width:200px">
-<img height="32" width="32" alt="Beispiel Rendering" style="float:left;margin:0px 8px 0px 0px" src="~/icon/Business/32x32/table_selection_block.png?w=32&amp;h=32&amp;as=1" />
-<div>Der Content-Platzhalter ist der Hauptplatzhalter.<div></div></div></div></div>
-<div></div></div>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
 key: __display name
-content-length: 6
+content-length: 15
 
-Inhalt
+Beispiel Layout
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -129,9 +115,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 16
+content-length: 34
 
-20160519T084839Z
+20150130T100352:635582090324740572
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -145,14 +131,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-28f4cc7b-c19d-492a-bee8-872b22c10d2c
+29f57be2-808e-455d-9abd-746ae3c71315
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 16
+content-length: 34
 
-20160519T084839Z
+20150130T100352:635582090324740572
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -163,23 +149,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: e1e17744-9980-42e3-ab6c-7d98156e75a9
-
-----field----
-field: {87871FF5-1965-46D6-884F-01D6A0B9C4C1}
-name: Description
-key: description
-content-length: 388
-
-
-		<div>
-      <b>Content Placeholder</b>
-      <div>
-
-<div style="padding:8px 8px 0px 8px;width:200px">
-<img height="32" width="32" alt="Sample Rendering" style="float:left;margin:0px 8px 0px 0px" src="~/icon/Business/32x32/table_selection_block.png?w=32&amp;h=32&amp;as=1" />
-<div>The content placeholder is the main placeholder.<div></div></div></div></div>
-<div></div></div>
+revision: 612a1815-f937-441a-afa4-c44ecae7fa70
 
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
@@ -194,7 +164,7 @@ name: __Created
 key: __created
 content-length: 15
 
-20080110T095900
+20150220T151143
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -208,14 +178,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-e1e17744-9980-42e3-ab6c-7d98156e75a9
+612a1815-f937-441a-afa4-c44ecae7fa70
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160713T205231Z
+20160713T202033Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -226,29 +196,15 @@ sitecore\admin
 ----version----
 language: ja-JP
 version: 1
-revision: bb33c8be-01b6-45ba-8384-1055c6e10dc5
+revision: 82dd5bee-29fa-4d1d-bfd5-9c8a5419dcf3
 
-----field----
-field: {87871FF5-1965-46D6-884F-01D6A0B9C4C1}
-name: Description
-key: description
-content-length: 387
-
-<div>
-      <b>コンテンツ (content) プレースホルダー</b>
-      <div>
-
-<div style="padding:8px 8px 0px 8px;width:200px">
-<img height="32" width="32" alt="コンテンツ (content) プレースホルダー" style="float:left;margin:0px 8px 0px 0px" src="~/icon/Business/32x32/table_selection_block.png?w=32&amp;h=32&amp;as=1" />
-<div>コンテンツ (content) プレースホルダーはメインのプレースホルダーです。<div></div></div></div></div>
-<div></div></div>
 ----field----
 field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
 name: __Display name
 key: __display name
-content-length: 15
+content-length: 10
 
-コンテンツ (content)
+サンプル レイアウト
 ----field----
 field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
 name: __Owner
@@ -260,9 +216,9 @@ sitecore\admin
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
-content-length: 16
+content-length: 34
 
-20160519T084530Z
+20150130T094209:635582077296763676
 ----field----
 field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
 name: __Created by
@@ -276,14 +232,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-bb33c8be-01b6-45ba-8384-1055c6e10dc5
+82dd5bee-29fa-4d1d-bfd5-9c8a5419dcf3
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 16
+content-length: 34
 
-20160519T084530Z
+20150130T094209:635582077296763676
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

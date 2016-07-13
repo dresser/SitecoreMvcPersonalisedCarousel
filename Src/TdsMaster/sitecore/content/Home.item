@@ -81,13 +81,6 @@ content-length: 77
 
 {76036F5E-CBCE-46D1-AF0A-4143F9B557AA}|{A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
 ----field----
-field: {F1A1FE9E-A60C-4DDB-A3A0-BB5B29FE732E}
-name: __Renderings
-key: __renderings
-content-length: 764
-
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}" s:l="{DE645646-421B-4E1F-B857-539E239023EE}"><r uid="{43222D12-08C9-453B-AE96-D406EBB95126}"><p:d /></r><r uid="{CF044AD9-0332-407A-ABDE-587214A2C808}"><p:d /></r><r uid="{E866C478-E773-4BDD-A37E-A03E8FB8AF00}" p:before="*" s:id="{E753488C-B035-4120-B7F0-442027F65E7B}" s:ph="main" /><r uid="{615E3584-6A86-472D-B8EF-225FA1F7CCD0}" p:after="*[1=2]" s:id="{56E68545-D1EB-4849-BBD7-5A9BFA25E30A}" s:ph="/main/centercolumn" /><r uid="{B343725A-3A93-446E-A9C8-3A2CBD3DB489}"><p:d /></r></d><d id="{46D2F427-4CE5-4E1F-BA10-EF3636F43534}"><r uid="{A08C9132-DBD1-474F-A2CA-6CA26A4AA650}" s:cac="0" s:cnd="" s:mvt="" s:vbd="0" s:vbdev="0" s:vbl="0" s:vbp="0" s:vbqs="0" s:vbu="0" /></d></r>
-----field----
 field: {86FE4F77-4D9A-4EC3-9ED9-263D03BD1965}
 name: __Publish
 key: __publish
@@ -153,7 +146,7 @@ content-length: 0
 ----version----
 language: da
 version: 1
-revision: 9851a5aa-1ec9-4564-a3b2-e1e1fd000386
+revision: e582da2d-b242-4bd7-8ca4-6a708873546c
 
 ----field----
 field: {E7E3948A-DD47-468B-B4DA-0DF31C1CF6C5}
@@ -217,14 +210,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9851a5aa-1ec9-4564-a3b2-e1e1fd000386
+e582da2d-b242-4bd7-8ca4-6a708873546c
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20150130T103154:635582107147848277
+20160713T202216Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -235,7 +228,7 @@ sitecore\admin
 ----version----
 language: de-DE
 version: 1
-revision: cd265e81-1a2e-4e04-83f7-0a99cab88b2d
+revision: 6f023e9c-2a54-47e4-b35e-caf64ec09b95
 
 ----field----
 field: {E7E3948A-DD47-468B-B4DA-0DF31C1CF6C5}
@@ -299,14 +292,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-cd265e81-1a2e-4e04-83f7-0a99cab88b2d
+6f023e9c-2a54-47e4-b35e-caf64ec09b95
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20150130T100346:635582090265521072
+20160713T202216Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -317,7 +310,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 3c8ad17a-32ff-4753-b3c2-255ae593e26e
+revision: 9b2c227a-2e41-446c-aed6-46ec80c85ee7
 
 ----field----
 field: {E7E3948A-DD47-468B-B4DA-0DF31C1CF6C5}
@@ -356,13 +349,6 @@ key: __short description
 content-length: 20
 
 Welcome to Sitecore.
-----field----
-field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
-name: __Final Renderings
-key: __final renderings
-content-length: 256
-
-<r xmlns:p="p" xmlns:s="s" p:p="1"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{79C37D28-AABC-4AE1-B393-3176BD6B2281}" p:before="*" s:id="{DFD4823F-B710-4929-A0B7-8FBB1265FEE1}" s:ph="/main/centercolumn/content/carousel-custom-slides" /></d></r>
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
 name: __Valid from
@@ -404,14 +390,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-3c8ad17a-32ff-4753-b3c2-255ae593e26e
+9b2c227a-2e41-446c-aed6-46ec80c85ee7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160710T191823Z
+20160713T202216Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -429,7 +415,7 @@ content-length: 5
 ----version----
 language: ja-JP
 version: 1
-revision: 44d0f3b6-0a50-4653-a694-8e7c220969d4
+revision: 78c97938-f331-4098-bcf2-773ec36b3fe7
 
 ----field----
 field: {E7E3948A-DD47-468B-B4DA-0DF31C1CF6C5}
@@ -493,14 +479,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-44d0f3b6-0a50-4653-a694-8e7c220969d4
+78c97938-f331-4098-bcf2-773ec36b3fe7
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
-content-length: 34
+content-length: 16
 
-20150130T094206:635582077269576350
+20160713T202216Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

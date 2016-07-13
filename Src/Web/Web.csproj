@@ -79,6 +79,7 @@
     <Content Include="App_Config\Include\Sites.config" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="Assets\Scripts\jquery-1.8.2.intellisense.js" />
+    <Content Include="Assets\Css\default.css" />
     <Content Include="Assets\Images\left-arrow.png" />
     <Content Include="Assets\Images\right-arrow.png" />
     <Content Include="Global.asax" />
@@ -88,9 +89,8 @@
     <Content Include="Views\Renderings\Carousel\Carousel.cshtml" />
     <Content Include="Views\Renderings\Carousel\CarouselSlide.cshtml" />
     <Content Include="Views\Web.config" />
-    <Content Include="Views\Layouts\SampleMvcLayout.cshtml" />
-    <Content Include="Views\Renderings\Sample\SampleInnerView.cshtml" />
-    <Content Include="Views\Renderings\Sample\SampleView.cshtml" />
+    <Content Include="Views\Layouts\MvcLayout.cshtml" />
+    <Content Include="Views\Renderings\Grids\StandardGrid.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup />
