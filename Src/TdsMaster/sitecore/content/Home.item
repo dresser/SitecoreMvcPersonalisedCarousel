@@ -310,7 +310,7 @@ sitecore\admin
 ----version----
 language: en
 version: 1
-revision: 9b2c227a-2e41-446c-aed6-46ec80c85ee7
+revision: e2ad18d7-a1c5-4277-a861-2e821a38bbbb
 
 ----field----
 field: {E7E3948A-DD47-468B-B4DA-0DF31C1CF6C5}
@@ -349,6 +349,13 @@ key: __short description
 content-length: 20
 
 Welcome to Sitecore.
+----field----
+field: {04BF00DB-F5FB-41F7-8AB7-22408372A981}
+name: __Final Renderings
+key: __final renderings
+content-length: 1049
+
+<r xmlns:p="p" xmlns:s="s" p:p="1" s:xsd="http://www.w3.org/2001/XMLSchema"><d id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"><r uid="{6C0A608C-A1F6-469A-8909-CD0A0CDD6117}" p:before="*" s:ds="{EBC3E502-B05B-4549-AF9A-625A8C13FA1D}" s:id="{DFD4823F-B710-4929-A0B7-8FBB1265FEE1}" s:ph="/main/content/carousel-custom-slides"><rls><ruleset><rule uid="{905A2AD0-8696-4E7D-AC69-8BE8034685E4}" s:name="My Special Condition"><actions><action uid="DA360458F7634FA783F6FC58BD4597C1" s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}" s:DataSource="{7333BE0E-AF84-4DB2-A82B-D2F1A245680C}" /></actions></rule><rule uid="{00000000-0000-0000-0000-000000000000}" s:name="Default"><conditions><condition uid="1C398D53B49848EABEF8037C6CBB0D2B" s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" /></conditions><actions /></rule></ruleset></rls></r><r uid="{FF83DE90-6995-4151-9B7B-6FFC5EF5CC78}" p:after="r[@uid='{6C0A608C-A1F6-469A-8909-CD0A0CDD6117}']" s:ds="{5BC3AC4B-2993-45D0-B91B-B7F4DABBF305}" s:id="{C1B509A7-B8AE-4F77-BABF-74660965F5DA}" s:ph="/main/content" /></d></r>
 ----field----
 field: {C8F93AFE-BFD4-4E8F-9C61-152559854661}
 name: __Valid from
@@ -390,14 +397,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-9b2c227a-2e41-446c-aed6-46ec80c85ee7
+e2ad18d7-a1c5-4277-a861-2e821a38bbbb
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160713T202216Z
+20160713T230625Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by

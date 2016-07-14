@@ -20,7 +20,7 @@ content-length: 38
 ----version----
 language: en
 version: 1
-revision: 78570d31-68e8-4964-9e38-b4f7b0bc35a4
+revision: 9c89d0a7-a679-4d3b-9a56-6d8815b8d5ac
 
 ----field----
 field: {FA01DE3E-64BC-40AD-A992-54710D1A73F9}
@@ -37,6 +37,20 @@ content-length: 28
 
 Hello mr admin, welcome back
 ----field----
+field: {B91FA058-FB31-4617-B10F-7C2B9553FCE1}
+name: Background
+key: background
+content-length: 58
+
+<image mediaid="{6E78D818-B5AF-4B41-BE73-C3A8015FF781}" />
+----field----
+field: {5B4D4FCC-300F-426B-B08E-898CC77A5E6D}
+name: CallToAction
+key: calltoaction
+content-length: 115
+
+<link linktype="internal" text="Click Here" querystring="" target="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />
+----field----
 field: {25BED78C-4957-4165-998A-CA1B52F67497}
 name: __Created
 key: __created
@@ -49,14 +63,14 @@ name: __Revision
 key: __revision
 content-length: 36
 
-78570d31-68e8-4964-9e38-b4f7b0bc35a4
+9c89d0a7-a679-4d3b-9a56-6d8815b8d5ac
 ----field----
 field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
 name: __Updated
 key: __updated
 content-length: 16
 
-20160707T202543Z
+20160713T213725Z
 ----field----
 field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
 name: __Updated by
@@ -64,3 +78,10 @@ key: __updated by
 content-length: 14
 
 sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 5
+
+<r />
